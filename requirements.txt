@@ -33,7 +33,7 @@ pandas==0.24.1
 pandocfilters==1.4.2
 patsy==0.5.1
 pickleshare==0.7.5
-Pillow==5.4.1
+Pillow==9.0.0
 prometheus-client==0.5.0
 prompt-toolkit==1.0.15
 pyarrow==0.12.0
